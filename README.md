@@ -1,2 +1,2 @@
 # shell
-Implementation similar to bash shell in c using execv, chdir and fork calls.
+Implementation similar toa linux bash shell in c using execv, chdir and fork calls.
